@@ -1,0 +1,22 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1782840300
+Ball.tscn::PackedScene::8064037037699315273::1782833209::0::1::::<><><>0<>0<><>::uid://dv6rx85s1gy3i::::res://assets/ballBlue_10.png
+export_presets.cfg::TextFile::-1::1782839360::0::1::::<><><>0<>0<><>::
+Game21.apple-touch-icon.png::CompressedTexture2D::2404280979216202877::1782838455::1782838492::1::::<><><>0<>0<>76c28c3c1f48ec636ef1f5aac54c4535<>res://.godot/imported/Game21.apple-touch-icon.png-0c408b4824e2039a081f22cd40588a8d.ctex::
+Game21.icon.png::CompressedTexture2D::399681991990237686::1782838455::1782838492::1::::<><><>0<>0<>bef61f1bef6e6199e1680fedc0a9cd55<>res://.godot/imported/Game21.icon.png-e8a05143e2a9e48d2db104ce1afa2fdf.ctex::
+Game21.png::CompressedTexture2D::6906679836179807096::1782838455::1782838492::1::::<><><>0<>0<>867cbc7dfec2929c3c01e3f102363373<>res://.godot/imported/Game21.png-e6ff2e744295e085c9b17c4111764b08.ctex::
+icon.svg::CompressedTexture2D::7951457360396824501::1782833209::1782833371::1::::<><><>0<>0<>89ab6497392c9f9c98d525f651af4900<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+index.apple-touch-icon.png::CompressedTexture2D::3868293529005862984::1782839360::1782840370::1::::<><><>0<>0<>28d7dc3c4340e1157db1a5e818b39d09<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
+index.icon.png::CompressedTexture2D::538089918150849654::1782839360::1782840370::1::::<><><>0<>0<>4e3d45a2b31dc19288a4c21e2ffe0a84<>res://.godot/imported/index.icon.png-5665fad188e88d1e882500a4376bfe02.ctex::
+index.png::CompressedTexture2D::8577585741785640943::1782839360::1782840370::1::::<><><>0<>0<>5122fb6b76ba34fcbd6ebda33ea45da6<>res://.godot/imported/index.png-5122033cac747157decad52589e2295c.ctex::
+Main.gd::GDScript::3253081640721857007::1782833209::0::1::::<>Node<><>0<>0<><>::
+Main.tscn::PackedScene::2580185021150866616::1782838499::0::1::::<><><>0<>0<><>::uid://bml21q6iedb32::::res://Main.gd<>uid://dm5jrnxmxnuof::::res://Ball.tscn<>uid://dkq1swbmmxmbq::::res://assets/Bouncy Platform Long.png<>uid://uoxaoh1oqiiw::::res://assets/Ball_basket.tscn
+README.md::TextFile::-1::1782833209::0::1::::<><><>0<>0<><>::
+::res://assets/::1782835974
+ballBlue_10.png::CompressedTexture2D::8698298520458212912::1782833209::1782833371::1::::<><><>0<>0<>0c763170a79ad99eedbeeb4d88792545<>res://.godot/imported/ballBlue_10.png-a6ac20f1eeff46860499a0f8c7bba4ff.ctex::
+ball_basket4.png::CompressedTexture2D::4992800022074823281::1782834132::1782834184::1::::<><><>0<>0<>d23611fd004d26915fd32a6712542a6c<>res://.godot/imported/ball_basket4.png-65f7d1b84e55224b207cd6ebe4d5a346.ctex::
+Ball_basket.tscn::PackedScene::1434075399492314278::1782835974::0::1::::<><><>0<>0<><>::uid://cdesxmcfxyiab::::res://assets/ball_basket4.png
+Bouncy Platform Long.png::CompressedTexture2D::7895792475247486234::1782833209::1782833371::1::::<><><>0<>0<>31118e1e1499f35295f49355ab77bcfe<>res://.godot/imported/Bouncy Platform Long.png-9b2628c180785c5ec622adb5c4ee7b17.ctex::
+Bouncy Platform Medium.png::CompressedTexture2D::3192301516354317244::1782833209::1782833371::1::::<><><>0<>0<>f1225ecbb5f27ac74a634ecf21c01a09<>res://.godot/imported/Bouncy Platform Medium.png-7896338a5f44da1e83084c154a3c4a9e.ctex::
+::res://Games_21/::1782840301
+::res://Game_21/::1782840246
